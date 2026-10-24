@@ -45,4 +45,5 @@ crashlytics-buildid.txt
 # OS files
 .DS_Store
 Thumbs.db
-desktop.ini*.slnx
+desktop.ini
+*.slnx
